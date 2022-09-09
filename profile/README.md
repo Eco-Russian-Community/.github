@@ -12,12 +12,12 @@ Links to our resources:
 - YandexZen - https://dzen.ru/channel/id/6198e9e14209c8657a33c4ea
 
 We develop and actively update the following mods:
-- No immortal plants (9.1-9.5) https://eco.mod.io/no-immortal-plants
-- Road Signs (9.4-9.5) https://eco.mod.io/road-signs
+- No immortal plants (9.1-9.6) https://eco.mod.io/no-immortal-plants
+- Road Signs (9.4-9.6) https://eco.mod.io/road-signs
 - Russian Translation Fix (9.3) https://eco.mod.io/ecorussiantranslationfix
-- Dirt Decomposition (9.3-9.5) https://eco.mod.io/dirt-decomposition
-- ERC-RolePlay (9.4-9.5) https://eco.mod.io/erc-roleplay
-- ERC-Garden (9.4-9.5) https://eco.mod.io/erc-garden
+- Dirt Decomposition (9.3-9.6) https://eco.mod.io/dirt-decomposition
+- ERC-RolePlay (9.4-9.6) https://eco.mod.io/erc-roleplay
+- ERC-Garden (9.4-9.6) https://eco.mod.io/erc-garden
 - Sunflower oil (9.1-9.3) was add in Eco 9.4.0
 
 We are actively involved in the development of the following mods:
