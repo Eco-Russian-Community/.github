@@ -12,17 +12,18 @@ Links to our resources:
 - YandexZen - https://dzen.ru/channel/id/6198e9e14209c8657a33c4ea
 
 We develop and actively update the following mods:
-- No immortal plants (9.1-9.6) https://eco.mod.io/no-immortal-plants
-- Road Signs (9.4-9.6) https://eco.mod.io/road-signs
+- No immortal plants (9.1-9.6) https://mod.io/g/eco/m/no-immortal-plants
+- Road Signs (9.4-9.6) https://mod.io/g/eco/m/erc-signs
 - Russian Translation Fix (9.3) https://eco.mod.io/ecorussiantranslationfix
-- Dirt Decomposition (9.3-9.6) https://eco.mod.io/dirt-decomposition
-- ERC-RolePlay (9.4-9.6) https://eco.mod.io/erc-roleplay
-- ERC-Garden (9.4-9.6) https://eco.mod.io/erc-garden
+- Dirt Decomposition (9.3-9.6) https://mod.io/g/eco/m/dirt-decomposition
+- ERC-RolePlay (9.4-9.6) https://mod.io/g/eco/m/erc-roleplay
+- ERC-Garden (9.4-9.6) https://mod.io/g/eco/m/erc-garden
+- ERC-Gates (9.5-9.6) https://mod.io/g/eco/m/erc-gates
 - Sunflower oil (9.1-9.3) was add in Eco 9.4.0
 
 We are actively involved in the development of the following mods:
-- EcoWorldEdit - https://eco.mod.io/ecoworldedit
+- EcoWorldEdit - https://mod.io/g/eco/m/ecoworldedit
 
 Roadmap - our next mods:
-- Eco Conveyance (9.4) in Develop, current status alpha 1.1.2 https://www.youtube.com/watch?v=B0hZg4ORoGY
+- Eco Conveyance (9.4-9.6) in Develop, current status alpha 1.1.2 https://www.youtube.com/watch?v=B0hZg4ORoGY
 - Eco Minecarts https://youtu.be/NAVXU4bvGvQ 
