@@ -9,7 +9,7 @@ Links to our resources:
 - Telegram - https://t.me/ecogameru
 - Twitter - https://twitter.com/ecopublicrus
 - GitHub - https://github.com/Eco-Russian-Community
-- YandexZen - https://dzen.ru/channel/id/6198e9e14209c8657a33c4ea
+- Dzen - https://dzen.ru/ecopublicrus
 
 We develop and actively update the following mods:
 - No immortal plants (9.1-9.6) https://mod.io/g/eco/m/no-immortal-plants
