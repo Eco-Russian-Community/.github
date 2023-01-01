@@ -10,6 +10,7 @@ Links to our resources:
 - Twitter - https://twitter.com/ecopublicrus
 - GitHub - https://github.com/Eco-Russian-Community
 - Dzen - https://dzen.ru/ecopublicrus
+- Boosty - https://boosty.to/ecorumods
 
 We develop and actively update the following mods:
 
