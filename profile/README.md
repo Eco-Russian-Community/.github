@@ -14,6 +14,7 @@ Links to our resources:
 
 We develop and actively update the following mods:
 
+- ERC-Hewn Log Expansion (9.7) https://mod.io/g/eco/m/erc-hewn-log-expansion
 - ERC-Universal Constructions (9.6) https://mod.io/g/eco/m/erc-universal-constructions
 - ERC-Composter (9.7) https://mod.io/g/eco/m/erc-composter
 - ERC-Garden (9.4-9.6) https://mod.io/g/eco/m/erc-garden
