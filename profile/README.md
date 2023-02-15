@@ -15,13 +15,13 @@ Links to our resources:
 We develop and actively update the following mods:
 
 - ERC-Universal Constructions (9.6) https://mod.io/g/eco/m/erc-universal-constructions
-- ERC-Composter (9.6) https://mod.io/g/eco/m/erc-composter
+- ERC-Composter (9.7) https://mod.io/g/eco/m/erc-composter
 - ERC-Garden (9.4-9.6) https://mod.io/g/eco/m/erc-garden
 - ERC-Gates (9.5-9.6) https://mod.io/g/eco/m/erc-gates
 - ERC-RolePlay (9.4-9.6) https://mod.io/g/eco/m/erc-roleplay
 - Road Signs (9.4-9.6) https://mod.io/g/eco/m/erc-signs
-- Dirt Decomposition (9.3-9.6) https://mod.io/g/eco/m/dirt-decomposition
-- No immortal plants (9.1-9.6) https://mod.io/g/eco/m/no-immortal-plants
+- Dirt Decomposition (9.3-9.7) https://mod.io/g/eco/m/dirt-decomposition
+- No immortal plants (9.1-9.7) https://mod.io/g/eco/m/no-immortal-plants
 - Russian Translation Fix (9.3) https://eco.mod.io/ecorussiantranslationfix
 - Sunflower oil (9.1-9.3) was add in Eco 9.4.0
 
@@ -29,5 +29,7 @@ We are actively involved in the development of the following mods:
 - EcoWorldEdit - https://mod.io/g/eco/m/ecoworldedit
 
 Roadmap - our next mods:
+- ERC-PGA
+- ERC-Chutes
 - Eco Conveyance (9.4-9.6) in Develop, current status alpha 1.1.2 https://www.youtube.com/watch?v=B0hZg4ORoGY
 - Eco Minecarts https://youtu.be/NAVXU4bvGvQ 
