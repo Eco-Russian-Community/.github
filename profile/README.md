@@ -14,6 +14,7 @@ Links to our resources:
 
 We develop and actively update the following mods:
 
+- ERC - Portable Geological Analyzer (PGA) - https://mod.io/g/eco/m/erc-pga
 - ERC-Hewn Log Expansion (9.7) https://mod.io/g/eco/m/erc-hewn-log-expansion
 - ERC-Universal Constructions (9.6) https://mod.io/g/eco/m/erc-universal-constructions
 - ERC-Composter (9.7) https://mod.io/g/eco/m/erc-composter
@@ -30,7 +31,7 @@ We are actively involved in the development of the following mods:
 - EcoWorldEdit - https://mod.io/g/eco/m/ecoworldedit
 
 Roadmap - our next mods:
-- ERC-PGA
+- ERC-Teleport
 - ERC-Chutes
 - Eco Conveyance (9.4-9.6) in Develop, current status alpha 1.1.2 https://www.youtube.com/watch?v=B0hZg4ORoGY
 - Eco Minecarts https://youtu.be/NAVXU4bvGvQ 
