@@ -13,9 +13,9 @@ Links to our resources:
 - Boosty - https://boosty.to/ecorumods
 
 ERC Development team:
-- @Stallef
-- @Tavren
-- @SpiritOfAncientWherewolf
+- @Stallef [Manager]
+- @Tavren [C# Coder]
+- @SpiritOfAncientWherewolf [3D Artist] https://www.twitch.tv/spiritofancientwherewolf
 
 We develop and actively update the following mods:
 
