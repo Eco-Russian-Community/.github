@@ -12,6 +12,11 @@ Links to our resources:
 - Dzen - https://dzen.ru/ecopublicrus
 - Boosty - https://boosty.to/ecorumods
 
+ERC Development team:
+- @Stallef
+- @Tavren
+- @SpiritOfAncientWherewolf
+
 We develop and actively update the following mods:
 
 - ERC - Portable Geological Analyzer (PGA) - https://mod.io/g/eco/m/erc-pga
