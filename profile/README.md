@@ -20,17 +20,17 @@ ERC Development team:
 We develop and actively update the following mods:
 
 - ERC - Portable Geological Analyzer (PGA) - https://mod.io/g/eco/m/erc-pga
-- ERC-Hewn Log Expansion (9.7) https://mod.io/g/eco/m/erc-hewn-log-expansion
-- ERC-Universal Constructions (9.6) https://mod.io/g/eco/m/erc-universal-constructions
-- ERC-Composter (9.7) https://mod.io/g/eco/m/erc-composter
-- ERC-Garden (9.4-9.6) https://mod.io/g/eco/m/erc-garden
-- ERC-Gates (9.5-9.6) https://mod.io/g/eco/m/erc-gates
-- ERC-RolePlay (9.4-9.6) https://mod.io/g/eco/m/erc-roleplay
-- Road Signs (9.4-9.6) https://mod.io/g/eco/m/erc-signs
-- Dirt Decomposition (9.3-9.7) https://mod.io/g/eco/m/dirt-decomposition
-- No immortal plants (9.1-9.7) https://mod.io/g/eco/m/no-immortal-plants
-- Russian Translation Fix (9.3) https://eco.mod.io/ecorussiantranslationfix
-- Sunflower oil (9.1-9.3) was add in Eco 9.4.0
+- ERC-Hewn Log Expansion - https://mod.io/g/eco/m/erc-hewn-log-expansion
+- ERC-Universal Constructions - https://mod.io/g/eco/m/erc-universal-constructions
+- ERC-Composter - https://mod.io/g/eco/m/erc-composter
+- ERC-Garden - https://mod.io/g/eco/m/erc-garden
+- ERC-Gates - https://mod.io/g/eco/m/erc-gates
+- ERC-RolePlay - https://mod.io/g/eco/m/erc-roleplay
+- Road Signs - https://mod.io/g/eco/m/erc-signs
+- Dirt Decomposition - https://mod.io/g/eco/m/dirt-decomposition
+- No immortal plants - https://mod.io/g/eco/m/no-immortal-plants
+- Russian Translation Fix - https://eco.mod.io/ecorussiantranslationfix
+- Sunflower oil - was add in Eco 9.4.0
 
 We are actively involved in the development of the following mods:
 - EcoWorldEdit - https://mod.io/g/eco/m/ecoworldedit
