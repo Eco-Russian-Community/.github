@@ -26,7 +26,7 @@ We develop and actively update the following mods:
 - ERC-Garden - https://mod.io/g/eco/m/erc-garden
 - ERC-Gates - https://mod.io/g/eco/m/erc-gates
 - ERC-RolePlay - https://mod.io/g/eco/m/erc-roleplay
-- Road Signs - https://mod.io/g/eco/m/erc-signs
+- ERC-Signs - https://mod.io/g/eco/m/erc-signs
 - Dirt Decomposition - https://mod.io/g/eco/m/dirt-decomposition
 - No immortal plants - https://mod.io/g/eco/m/no-immortal-plants
 - Russian Translation Fix - https://eco.mod.io/ecorussiantranslationfix
