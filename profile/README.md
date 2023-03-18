@@ -19,7 +19,7 @@ ERC Development team:
 
 We develop and actively update the following mods:
 
-- ERC - Portable Geological Analyzer (PGA) - https://mod.io/g/eco/m/erc-pga
+- ERC - PGA (Portable Geological Analyzer) - https://mod.io/g/eco/m/erc-pga
 - ERC-Hewn Log Expansion - https://mod.io/g/eco/m/erc-hewn-log-expansion
 - ERC-Universal Constructions - https://mod.io/g/eco/m/erc-universal-constructions
 - ERC-Composter - https://mod.io/g/eco/m/erc-composter
