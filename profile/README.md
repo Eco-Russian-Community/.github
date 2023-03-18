@@ -38,5 +38,5 @@ We are actively involved in the development of the following mods:
 Roadmap - our next mods:
 - ERC-Teleport - in Develop
 - ERC-Chutes - in Develop
-- Eco Conveyance - in Develop, current status alpha 1.1.2 https://www.youtube.com/watch?v=B0hZg4ORoGY
+- Eco Conveyance - in Develop - https://www.youtube.com/watch?v=B0hZg4ORoGY
 - Eco Minecarts https://youtu.be/NAVXU4bvGvQ 
