@@ -13,13 +13,16 @@ Links to our resources:
 - Boosty - https://boosty.to/ecorumods
 
 ERC Development team:
-- @Stallef [Manager]
-- @Tavren [C# Coder]
-- @SpiritOfAncientWherewolf [3D Artist] https://www.twitch.tv/spiritofancientwherewolf
+- @Stallef
+- @Tavren 
+- @SpiritOfAncientWherewolf https://www.twitch.tv/spiritofancientwherewolf
 
 We develop and actively update the following mods:
 
-- ERC - PGA (Portable Geological Analyzer) - https://mod.io/g/eco/m/erc-pga
+- EcoChatTogether - https://mod.io/g/eco/m/ecochattogether
+- ERC-Locks - https://mod.io/g/eco/m/erc-locks
+- ERC-Sorter - https://mod.io/g/eco/m/erc-sorter
+- ERC-PGA (Portable Geological Analyzer) - https://mod.io/g/eco/m/erc-pga
 - ERC-Hewn Log Expansion - https://mod.io/g/eco/m/erc-hewn-log-expansion
 - ERC-Universal Constructions - https://mod.io/g/eco/m/erc-universal-constructions
 - ERC-Composter - https://mod.io/g/eco/m/erc-composter
