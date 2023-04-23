@@ -32,7 +32,7 @@ We develop and actively update the following mods:
 - ERC-Signs - https://mod.io/g/eco/m/erc-signs
 - Dirt Decomposition - https://mod.io/g/eco/m/dirt-decomposition
 - No immortal plants - https://mod.io/g/eco/m/no-immortal-plants
-- Russian Translation Fix - https://eco.mod.io/ecorussiantranslationfix
+- Russian Translation Fix - https://mod.io/g/eco/m/ecorussiantranslationfix
 - Sunflower oil - was add in Eco 9.4.0
 
 We are actively involved in the development of the following mods:
