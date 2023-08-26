@@ -18,7 +18,9 @@ ERC Development team:
 - @SpiritOfAncientWherewolf https://www.twitch.tv/spiritofancientwherewolf
 
 We develop and actively update the following mods:
-
+- ERC-Chutes - https://mod.io/g/eco/m/erc-chutes
+- ERC - Hewn Log Expansion - https://mod.io/g/eco/m/erc-hewn-log-expansion
+- The Great Cornholio - https://mod.io/g/eco/m/the-great-cornholio
 - EcoChatTogether - https://mod.io/g/eco/m/ecochattogether
 - ERC-Locks - https://mod.io/g/eco/m/erc-locks
 - ERC-Sorter - https://mod.io/g/eco/m/erc-sorter
