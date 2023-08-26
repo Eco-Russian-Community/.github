@@ -42,6 +42,10 @@ We are actively involved in the development of the following mods:
 
 Roadmap - our next mods:
 - ERC-Teleport - in Develop
-- ERC-Chutes - in Develop
+- NonPlayerCharacters (NPC)
+- ERC-OilRefinery - in Develop
+- ERC-Physics - Mod that add physics to world blocks and constructions
+- ERC-Automation - Mod that provide way to automate other ERC mods, crafting and many other things
+- ERC-Power - Mod that changes how the power network works and adds various utilities to handle it - in Develop
 - Eco Conveyance - in Develop - https://www.youtube.com/watch?v=B0hZg4ORoGY
 - Eco Minecarts https://youtu.be/NAVXU4bvGvQ 
