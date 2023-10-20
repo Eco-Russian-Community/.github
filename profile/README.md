@@ -15,7 +15,7 @@ Links to our resources:
 ERC Development team:
 - @Stallef
 - @Tavren 
-- @SpiritOfAncientWherewolf https://www.twitch.tv/spiritofancientwherewolf
+- Ray Fox and other
 
 We develop and actively update the following mods:
 - ERC-Chutes - https://mod.io/g/eco/m/erc-chutes
