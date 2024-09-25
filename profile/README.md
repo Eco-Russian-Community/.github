@@ -15,13 +15,11 @@ Links to our resources:
 ERC Development team:
 - @Stallef
 - @Tavren 
-- Ray Fox and other
 
 We develop and actively update the following mods:
 - ERC-Chutes - https://mod.io/g/eco/m/erc-chutes
 - ERC - Hewn Log Expansion - https://mod.io/g/eco/m/erc-hewn-log-expansion
 - The Great Cornholio - https://mod.io/g/eco/m/the-great-cornholio
-- EcoChatTogether - https://mod.io/g/eco/m/ecochattogether
 - ERC-Locks - https://mod.io/g/eco/m/erc-locks
 - ERC-Sorter - https://mod.io/g/eco/m/erc-sorter
 - ERC-PGA (Portable Geological Analyzer) - https://mod.io/g/eco/m/erc-pga
@@ -34,8 +32,6 @@ We develop and actively update the following mods:
 - ERC-Signs - https://mod.io/g/eco/m/erc-signs
 - Dirt Decomposition - https://mod.io/g/eco/m/dirt-decomposition
 - No immortal plants - https://mod.io/g/eco/m/no-immortal-plants
-- Russian Translation Fix - https://mod.io/g/eco/m/ecorussiantranslationfix
-- Sunflower oil - was add in Eco 9.4.0
 
 We are actively involved in the development of the following mods:
 - EcoWorldEdit - https://mod.io/g/eco/m/ecoworldedit
